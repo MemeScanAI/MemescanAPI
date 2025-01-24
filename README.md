@@ -188,7 +188,7 @@ MEMESCAN API is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- **Email**: support@memescanner.io
+- **Email**: support@memecoinscan.io
 - **Twitter**: [@memescan](https://twitter.com/https://x.com/MemeScanAI)  
 ---
 
