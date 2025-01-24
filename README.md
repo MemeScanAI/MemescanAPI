@@ -35,7 +35,7 @@ With **MEMESCAN API**, you can easily integrate Solana contract intelligence int
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/MEMESCAN-API.git
+git clone https://github.com/MemescanAPI/MEMESCAN-API.git
 cd MEMESCAN-API
 ```
 
@@ -55,7 +55,7 @@ To start the API server, use Uvicorn:
 uvicorn memescan_api.main:app --reload
 ```
 
-The API will be available at `http://localhost:8000`. You can explore the interactive documentation at `http://localhost:8000/docs`.
+The API will be available at `http://memescan-apihost:3230`. You can explore the interactive documentation at `http://memescan-apihost:3230/docs`.
 
 ---
 
@@ -188,10 +188,8 @@ MEMESCAN API is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- **Email**: support@memescan.ai  
-- **Twitter**: [@memescan](https://twitter.com/memescan)  
-- **Discord**: [Join our community](https://discord.gg/yourcommunitylink)
-
+- **Email**: support@memescanner.io
+- **Twitter**: [@memescan](https://twitter.com/https://x.com/MemeScanAI)  
 ---
 
 ## 📈 Roadmap
